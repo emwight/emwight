@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Pronouns: she/her
+- I'm currently learning Git and Github for my data science class
+- I'm currently working on starting a data science blog
+
 <!--
 **emwight/emwight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
